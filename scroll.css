@@ -1,0 +1,40 @@
+/* 
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-moz-scrollbar {
+    width: 12px;
+}
+body{
+    scrollbar-width: thin; 
+}
+
+
+::-webkit-scrollbar-track {
+}
+
+::-moz-scrollbar-track {
+}
+
+::-webkit-scrollbar-thumb {
+}
+
+::-moz-scrollbar-thumb {
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555; 
+}
+
+::-moz-scrollbar-thumb:hover {
+    background-color: #555; 
+}
+
+::-webkit-scrollbar-button {
+    display: none; 
+}
+
+::-moz-scrollbar-button {
+    display: none;
+} */
